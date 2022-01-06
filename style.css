@@ -1,0 +1,14 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.border-line {
+  border-left: 2px solid orangered;
+  border-left-width: 5px;
+  
+}
+.color-my-name{
+  color: orange;
+}
+.text-shadow{
+  text-shadow: orchid;
+}
