@@ -79,6 +79,8 @@ body{
   .coding-img{
     width: 100px;
     height: 400px;
+    border-radius: 25px;
+
     
   }
   .wi-li-col{
@@ -89,15 +91,8 @@ body{
     margin: 80px;
     margin-bottom: 10px;
 }
-.ann-img{
-  width: 100px;
-  height: 400px;
 
-}
-.shape{
-  border-radius: 20px;
-}
-section
+
 
 
 
