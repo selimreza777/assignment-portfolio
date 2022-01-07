@@ -70,6 +70,34 @@ body{
   .illus-img{
     width: 50%;
   }
+  .develop-without-limit{
+    display: flex;
+    margin: 80px;
+    margin-bottom: 10px;
+
+  }
+  .coding-img{
+    width: 100px;
+    height: 400px;
+    
+  }
+  .wi-li-col{
+    color: #FF00FF;
+  }
+  .announcement{
+    display: flex;
+    margin: 80px;
+    margin-bottom: 10px;
+}
+.ann-img{
+  width: 100px;
+  height: 400px;
+
+}
+
+
+
+ 
   
 
 
