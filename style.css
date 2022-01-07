@@ -1,8 +1,11 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
+p{
+  text-align: justify;
+}
 .name-color{
-  color: orange;
+  color: #20B2AA;
 }
 .border-line{
   border-left: 3px solid red;
@@ -18,9 +21,6 @@ body{
   .half-width{
     width: 50%;
     padding-left: 5px;
-    
-  
-  
   }
   .half-width img{
     
@@ -28,14 +28,12 @@ body{
  }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, red);
+    background-image: linear-gradient(#24ff72,#2196f3);
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: 700;
     color: white;
-
-
-  }
+}
   .my-mis-2022{
     text-align: center;
   }
@@ -43,9 +41,8 @@ body{
     display: flex;
     margin: 80px;
     margin-bottom: 10px;
-    
-  }
-  .box-item-1{
+}
+.box-item-1{
 
     margin: 20px 20px 20px;
     box-shadow: 10px 10px 20px none;
@@ -53,7 +50,7 @@ body{
     background-color: #D2B48C;
     bac
   }
-  .box-item-2{
+.box-item-2{
 
     margin: 20px 20px 20px;
     box-shadow: 10px 10px 20px white;
@@ -74,6 +71,7 @@ body{
     display: flex;
     margin: 80px;
     margin-bottom: 10px;
+    bottom: 50px;
 
   }
   .coding-img{
@@ -84,13 +82,46 @@ body{
     
   }
   .wi-li-col{
-    color: #FF00FF;
+    color: #48D1CC;
   }
   .announcement{
     display: flex;
     margin: 80px;
     margin-bottom: 10px;
 }
+.gym-home{
+  text-align: center;
+}
+.foot{
+  background-color: black;
+  padding: 100px 0;
+}
+.gym{
+  width: 300px;
+    height: 500px;
+    border-radius: 25px;
+    
+
+}
+.year{
+  color: #436be6;
+}
+footer{
+  background: black;
+  height: auto;
+  width: 100vw;
+  font-family: "Open Sans";
+  padding-top: 4px;
+  color: #fff;
+  text-align: center;
+}
+.footer-content{
+  text-align: center;
+}
+.push-pa{
+  text-align: center;
+}
+
 
 
 
